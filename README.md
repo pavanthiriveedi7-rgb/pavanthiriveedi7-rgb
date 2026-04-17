@@ -6,7 +6,7 @@ I am a results-driven professional specializing in architecting data-driven solu
 ---
 
 ## Featured Research & Development
-### **Project: Smart Student Result Predictor**
+### **Project: Student-Success-Forecaster**
 *An End-to-End Analytical Framework for Academic Success Forecasting*
 
 *   **Objective**: Engineered a predictive "Early Warning System" to identify at-risk students through automated internal assessment analysis.

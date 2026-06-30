@@ -1,41 +1,107 @@
-# Tiruveedhi Venakata Pavan Kumar
-### Data Scientist | Machine Learning Engineer | Python
+<div align="center">
 
-I am a results-driven professional specializing in architecting data-driven solutions and predictive frameworks. My expertise lies in transforming raw institutional data into actionable insights through advanced statistical modeling and machine learning.
+# Tiruveedhi Pavan Kumar
 
----
+### Data Scientist · Machine Learning Engineer
 
-## Featured Research & Development
-### **Project: Student-Success-Forecaster**
-*An End-to-End Analytical Framework for Academic Success Forecasting*
+*"On a journey to become a Data Analytics. 1% better every day."*
 
-*   **Objective**: Engineered a predictive "Early Warning System" to identify at-risk students through automated internal assessment analysis.
-*   **Core Engine**: Implemented **XGBoost (Extreme Gradient Boosting)** to achieve high-precision classification of student outcomes.
-*   **Data Pipeline**: Developed robust preprocessing scripts for categorical data coercion, GPA vectorization, and multi-variable aggregation.
-*   **Impact**: Enables proactive educational intervention by forecasting final outcomes based on early-semester performance indicators.
+<br/>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavanthiriveedi7-rgb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-tiruveedhi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanthiriveedi7@gmail.com)
 
-## Technical Proficiencies
+</div>
 
+<br/>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Machine Learning** | XGBoost, Random Forest, Scikit-Learn, Supervised Learning |
-| **Data Engineering** | Pandas, NumPy, Data Cleaning, Feature Engineering |
-| **Analytics & Visualization** | Matplotlib, Seaborn, Pearson Correlation, EDA |
-| **Infrastructure** | SQL, GitHub Version Control, Google Colab, Jupyter |
+<div align="center">
+  <img src="Assets/output.gif" alt="Animated banner" width="100%"/>
+</div>
 
----
+<br/>
 
-## Professional Expertise
+## 🚀 About Me
 
-*   **Predictive Analytics**: Proficient in building robust classification and regression models for real-world decision-making.
-*   **Technical Automation**: Skilled in developing Python scripts to automate complex data aggregation and reporting workflows.
-*   **Statistical Modeling**: Expert in identifying latent trends and correlations within structured datasets to drive strategic planning.
+```python
+class Pavan:
+    def __init__(self):
+        self.role = "Data Scientist & ML Engineer"
+        self.stack = ["Python", "Django", "FastAPI", "React",
+                      "AWS", "Docker", "PostgreSQL", "MongoDB", "Redis"]
+        self.currently_learning = ["LLMs", "Prompt Engineering",
+                                    "Vector Databases", "System Design"]
+        self.ask_me_about = ["Machine Learning", "Data Analytics",
+                              "Backend Development", "API Design"]
 
----
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great!")
+```
 
-## Connect with Me
-[LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-tiruveedhi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email Contact](pavanthiriveedi7@gmail.com) | [https://claude.ai/chat/9df9341f-7970-4924-ae40-869c02fb9485]
+- 🔭 Currently working on **data-driven ML applications and scalable backend systems**
+- 🌱 Currently learning **LLMs, Prompt Engineering, Vector DBs & System Design**
+- 📝 Sharing progress and projects on GitHub and LinkedIn
+- 💬 Ask me about **Python, ML pipelines, REST APIs, and cloud deployment**
+- ⚡ Fun fact: *1% better every day*
+
+<br/>
+
+## 🛠️ Skills Showcase
+
+### Backend
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+
+### AI / ML
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-00C7B7?style=for-the-badge&logo=pinecone&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel" />
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pavanthiriveedi7-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanthiriveedi7-rgb&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthiriveedi7-rgb&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=pavanthiriveedi7-rgb&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/-pavanthiriveedi7--rgb-181717?style=flat-square&logo=github)](https://github.com/pavanthiriveedi7-rgb)
+[![LinkedIn](https://img.shields.io/badge/-Pavan%20Kumar%20Tiruveedhi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pavan-kumar-tiruveedhi)
+[![Email](https://img.shields.io/badge/-pavanthiriveedi7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pavanthiriveedi7@gmail.com)
+
+⭐️ *Thanks for visiting my profile — feel free to explore my repositories!*
+
+</div>
 

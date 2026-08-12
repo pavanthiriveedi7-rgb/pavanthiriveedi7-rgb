@@ -38,4 +38,4 @@ I am a results-driven professional specializing in architecting data-driven solu
 ---
 
 ## Connect with Me
-[LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-tiruveedhi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email Contact](pavanthiriveedi7@gmail.com) | 
+[LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-tiruveedhi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email Contact](pavanthiriveedi7@gmail.com) |  (https://www.perplexity.ai/search/348c649f-93c3-430d-8ed7-ef7a8fa7242e)

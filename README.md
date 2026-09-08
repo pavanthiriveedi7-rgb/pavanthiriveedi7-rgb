@@ -38,4 +38,4 @@ I am a results-driven professional specializing in architecting data-driven solu
 ---
 
 ## Connect with Me
-[LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-tiruveedhi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email Contact](pavanthiriveedi7@gmail.com) | 
+[LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-tiruveedhi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email Contact](pavanthiriveedi7@gmail.com) | [Naukri Account](https://www.naukri.com/mnjuser/profile?id=&altresid) | [Phone Number](9398535359)

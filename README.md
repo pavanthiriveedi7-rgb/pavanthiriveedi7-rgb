@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:6366F1,100:06B6D4&text=&fontSize=0" width="100%" alt="Header wave" />
 
-# ⚡ Hi, I'm Pavan Kumar
+# ⚡ Hi, I'm Pavan Kumar Tiruveedhi
 
-### ◽ CSE Student · ◼️ AI & Data Enthusiast · ◾ Python Developer
+### ◽ CSE Student · ◼️ AI & Data Enthusiast · ◾ Python Developer · ◆ ML/GenAI Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=520&height=45&lines=Learning+%E2%86%92+Building+%E2%86%92+Experimenting;Machine+Learning+%7C+Data+Science+%7C+GenAI;Working+toward+becoming+an+AI+Engineer" alt="Typing headline" />
 
@@ -37,7 +37,7 @@ while steadily progressing toward a career in Generative AI Engineering.
 
 <!-- ===================== 02 / CURRENT FOCUS ===================== -->
 
-## ⟡ 02 / CURRENT FOCUS
+## ⟡ 02  CURRENT FOCUS
 
 > **What I'm actively building and learning right now**
 
@@ -74,7 +74,7 @@ while steadily progressing toward a career in Generative AI Engineering.
 
 <!-- ===================== 03 / ABOUT ME ===================== -->
 
-## ◧ 03 / ABOUT ME
+## ◧ 03  ABOUT ME
 
 I'm a B.Tech Computer Science and Engineering student focused on building practical skills in **AI**, **Machine Learning**, and **Data Science**.
 
@@ -86,7 +86,7 @@ Right now I'm working through **Deep Learning**, **Computer Vision**, and **Gene
 
 <!-- ===================== 04 / TECH STACK ===================== -->
 
-## ⚙ 04 / TECH STACK
+## ⚙ 04  TECH STACK
 
 <div align="center">
 
@@ -121,11 +121,11 @@ Right now I'm working through **Deep Learning**, **Computer Vision**, and **Gene
 
 <!-- ===================== 05 / FEATURED PROJECTS ===================== -->
 
-## ⏣ 05 / FEATURED PROJECTS
+## ⏣ 05  FEATURED PROJECTS
 
 <div align="center">
 
-### ◉ Project 01 · Real-Time Defect Detection (YOLOv8)
+###  Project 01 · Real-Time Defect Detection (YOLOv8)
 
 </div>
 
@@ -188,7 +188,7 @@ Right now I'm working through **Deep Learning**, **Computer Vision**, and **Gene
 
 <div align="center">
 
-### ◉ Project 02 · Context-Aware Neural Recommendation Engine
+###  Project 02 · Context-Aware Neural Recommendation Engine
 
 </div>
 
@@ -250,7 +250,7 @@ Right now I'm working through **Deep Learning**, **Computer Vision**, and **Gene
 
 <div align="center">
 
-### ◉ Project 03 · Comprehensive Measure of Well-Being
+###  Project 03 · Comprehensive Measure of Well-Being
 
 </div>
 
@@ -325,7 +325,7 @@ I have **22+ repositories** on GitHub covering:
 
 <!-- ===================== 06 / AI LEARNING JOURNEY ===================== -->
 
-## ⌬ 06 / MY AI LEARNING JOURNEY
+## ⌬ 06  MY AI LEARNING JOURNEY
 
 <div align="center">
 
@@ -351,7 +351,7 @@ I have **22+ repositories** on GitHub covering:
 
 <!-- ===================== 07 / HOW I LEARN ===================== -->
 
-## „ 07 / HOW I LEARN
+##  07  HOW I LEARN
 
 ### My Development Loop
 
@@ -361,7 +361,7 @@ I don't trust an idea until I've implemented it. I write the code, break it on p
 
 <!-- ===================== 08 / CURRENTLY LEARNING ===================== -->
 
-## ⏠ 08 / CURRENTLY LEARNING
+##  08  CURRENTLY LEARNING
 
 *My own project stage, not certifications or professional experience.*
 
@@ -369,13 +369,13 @@ I don't trust an idea until I've implemented it. I write the code, break it on p
 
 | Skill Area | ◖ Stage |
 |:--|:--:|
-| **⚡ Python / SQL** | ◉ Comfortable, used in projects |
-| **◈ Data Analysis** | ◉ Comfortable, used in projects |
-| **◈ Machine Learning** | ◉ Applied in multiple projects |
-| **◇ Deep Learning** | ◉ Applied in recommendation systems |
-| **◎ Computer Vision** | ◉ Applied in YOLOv8 defect detection |
-| **⎯ Generative AI** | ◐ Learning |
-| **⎯ AI Engineering** | ◐ Just getting started |
+| **⚡ Python / SQL** |  Comfortable, used in projects |
+| **◈ Data Analysis** |  Comfortable, used in projects |
+| **◈ Machine Learning** |  Applied in multiple projects |
+| **◇ Deep Learning** |  Applied in recommendation systems |
+| **◎ Computer Vision** |  Applied in YOLOv8 defect detection |
+| **⎯ Generative AI** |  Learning |
+| **⎯ AI Engineering** |  Just getting started |
 
 </div>
 
@@ -389,7 +389,7 @@ I don't trust an idea until I've implemented it. I write the code, break it on p
 
 <!-- ===================== 09 / GITHUB ACTIVITY ===================== -->
 
-## ⍟ 09 / GITHUB ACTIVITY
+## ⍟ 09  GITHUB ACTIVITY
 
 <div align="center">
 
@@ -415,7 +415,7 @@ I don't trust an idea until I've implemented it. I write the code, break it on p
 
 <!-- ===================== 10 / ROADMAP ===================== -->
 
-## ⏁ 10 / ROADMAP
+##  10  ROADMAP
 
 ### Next Targets
 
@@ -423,7 +423,7 @@ I don't trust an idea until I've implemented it. I write the code, break it on p
 
 <!-- ===================== 11 / VISION ===================== -->
 
-## ⏫ 11 / WHAT I WANT TO BUILD
+##  11  WHAT I WANT TO BUILD
 
 I want to build AI systems that solve practical problems: tools that make information easier to find, data easier to understand, and decisions a little better informed. Every project I finish is a step in that direction.
 
@@ -431,7 +431,7 @@ I want to build AI systems that solve practical problems: tools that make inform
 
 <!-- ===================== 12 / CONNECT ===================== -->
 
-## ⍓ 12 / CONNECT
+##  12  CONNECT
 
 <div align="center">
 

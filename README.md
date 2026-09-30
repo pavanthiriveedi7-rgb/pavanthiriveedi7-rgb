@@ -4,21 +4,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:6366F1,100:06B6D4&text=&fontSize=0" width="100%" alt="Header wave" />
 
-# ⚡ Hi, I'm Pavan Kumar Tiruveedhi
+#  Hi, I'm Pavan Kumar Tiruveedhi
 
-### ◽ CSE Student · ◼️ AI & Data Enthusiast · ◾ Python Developer · ◆ ML/GenAI Developer
+###  CSE Student ·  AI & Data Enthusiast ·  Python Developer ·  ML/GenAI Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=520&height=45&lines=Learning+%E2%86%92+Building+%E2%86%92+Experimenting;Machine+Learning+%7C+Data+Science+%7C+GenAI;Working+toward+becoming+an+AI+Engineer" alt="Typing headline" />
 
 <br/>
 
 I'm a Computer Science and Engineering student who learns by building real projects.  
-Currently transforming Python code and data into working Machine Learning, Deep Learning, and computer vision systems,  
-while steadily progressing toward a career in Generative AI Engineering.
+Currently transforming Python code and data into working Machine Learning, Deep Learning, and computer vision systems,while steadily progressing toward a career in Generative AI Engineering.
 
 <br/>
 
-`⚡ Python` • `◼️ SQL` • `◾ Machine Learning` • `⬡ Deep Learning` • `⬢ Computer Vision` • `⬣ Data Science`
+` Python` • ` SQL` • ` Machine Learning` • ` Deep Learning` • ` Computer Vision` • ` Data Science`
 
 <br/>
 

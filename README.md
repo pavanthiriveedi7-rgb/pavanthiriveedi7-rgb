@@ -4,9 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&color=0:6366F1,100:06B6D4&text=&fontSize=0" width="100%" alt="Header wave" />
 
-#  Hi, I'm Pavan Kumar Tiruveedhi
+# ⚡ Hi, I'm Pavan Kumar
 
-### ◽ CSE Student · ◼️ AI & Data Enthusiast · ◾ Python Developer · ◆ ML/GenAI Developer
+### ◽ CSE Student · ◼️ AI & Data Enthusiast · ◾ Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=6366F1&center=true&vCenter=true&width=520&height=45&lines=Learning+%E2%86%92+Building+%E2%86%92+Experimenting;Machine+Learning+%7C+Data+Science+%7C+GenAI;Working+toward+becoming+an+AI+Engineer" alt="Typing headline" />
 
@@ -223,4 +223,229 @@ Right now I'm working through **Deep Learning**, **Computer Vision**, and **Gene
   </tr>
   <tr>
     <td><strong>◖ Outcome</strong></td>
-    <td>A deep learning recommendation model that leverages contextual information
+    <td>A deep learning recommendation model that leverages contextual information to provide more accurate and personalized suggestions.</td>
+  </tr>
+</table>
+
+<br/>
+
+**◖ What I Learned**
+- Neural collaborative filtering architectures
+- Embedding layers for categorical features
+- Context-aware recommendation strategies
+- Training deep learning models on sparse interaction data
+- Evaluation metrics for ranking and recommendation systems
+
+<br/>
+
+<div align="center">
+
+🔗 **[View Repository](https://github.com/pavanthiriveedi7-rgb/Context-Aware-Neural-Recommendation-Engine-Deep-Learning)**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ◉ Project 03 · Comprehensive Measure of Well-Being
+
+</div>
+
+> **Data analysis project exploring multi-dimensional well-being indicators through statistical analysis and visualization.**
+
+<br/>
+
+<table>
+  <tr>
+    <td width="25%"><strong>◖ Problem</strong></td>
+    <td>Well-being is multi-faceted but often measured using single metrics that miss important dimensions.</td>
+  </tr>
+  <tr>
+    <td><strong>◖ Approach</strong></td>
+    <td>
+      1. Collect well-being survey data across multiple dimensions<br/>
+      2. Clean and preprocess responses<br/>
+      3. Perform exploratory data analysis (EDA)<br/>
+      4. Identify correlations between well-being factors<br/>
+      5. Create visualizations showing patterns and insights<br/>
+      6. Build composite well-being index
+    </td>
+  </tr>
+  <tr>
+    <td><strong>◖ Technology</strong></td>
+    <td>
+      <code>Python</code> • <code>Pandas</code> • <code>NumPy</code> • <code>Matplotlib</code> • <code>Seaborn</code> • <code>Statistical Analysis</code> • <code>Data Visualization</code>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>◖ Outcome</strong></td>
+    <td>A comprehensive analysis revealing relationships between different well-being dimensions and a data-driven framework for measuring overall well-being.</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+🔗 **[View Repository](https://github.com/pavanthiriveedi7-rgb/A-Comprehensive-Measure-of-Well-Being)**
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ◉ More Projects
+
+</div>
+
+I have **22+ repositories** on GitHub covering:
+- **Data Analysis** — Pandas, NumPy, Matplotlib practice projects
+- **Machine Learning** — Classification, regression, and evaluation workflows
+- **Learning Repositories** — Exploring libraries and frameworks hands-on
+
+<div align="center">
+
+🔗 **[Explore All Repositories](https://github.com/pavanthiriveedi7-rgb?tab=repositories)**
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:6366F1,100:06B6D4&text=&fontSize=0" width="100%" alt="Divider" />
+
+</div>
+
+---
+
+<!-- ===================== 06 / AI LEARNING JOURNEY ===================== -->
+
+## ⌬ 06 / MY AI LEARNING JOURNEY
+
+<div align="center">
+
+| Stage | ◖ Focus Area |
+|:--|:--|
+| **1 · Foundations** | Python → NumPy & Pandas → SQL |
+| **2 · Data** | Data Analysis → Visualization |
+| **3 · Machine Learning** | Classical ML → Model evaluation |
+| **4 · Deep Learning** | Neural Networks → CNN → Recommendation Systems |
+| **5 · Computer Vision** | Object Detection → YOLOv8 → Real-time inference |
+| **6 · Modern AI** | Embeddings → Vector Search → Generative AI |
+| **7 · Destination** | **⎯ AI / ML Engineering** |
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:6366F1,100:06B6D4&text=&fontSize=0" width="100%" alt="Divider" />
+
+</div>
+
+---
+
+<!-- ===================== 07 / HOW I LEARN ===================== -->
+
+## „ 07 / HOW I LEARN
+
+### My Development Loop
+
+I don't trust an idea until I've implemented it. I write the code, break it on purpose or by accident, and debug until I can explain why it works. Every project goes back through the loop, and it gets better each time.
+
+---
+
+<!-- ===================== 08 / CURRENTLY LEARNING ===================== -->
+
+## ⏠ 08 / CURRENTLY LEARNING
+
+*My own project stage, not certifications or professional experience.*
+
+<div align="center">
+
+| Skill Area | ◖ Stage |
+|:--|:--:|
+| **⚡ Python / SQL** | ◉ Comfortable, used in projects |
+| **◈ Data Analysis** | ◉ Comfortable, used in projects |
+| **◈ Machine Learning** | ◉ Applied in multiple projects |
+| **◇ Deep Learning** | ◉ Applied in recommendation systems |
+| **◎ Computer Vision** | ◉ Applied in YOLOv8 defect detection |
+| **⎯ Generative AI** | ◐ Learning |
+| **⎯ AI Engineering** | ◐ Just getting started |
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:6366F1,100:06B6D4&text=&fontSize=0" width="100%" alt="Divider" />
+
+</div>
+
+---
+
+<!-- ===================== 09 / GITHUB ACTIVITY ===================== -->
+
+## ⍟ 09 / GITHUB ACTIVITY
+
+<div align="center">
+
+![GitHub contribution graph](https://ghchart.rshah.org/6366F1/pavanthiriveedi7-rgb)
+
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanthiriveedi7-rgb&show_icons=true&theme=tokyonight&hide_rank=false&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanthiriveedi7-rgb&layout=compact&theme=tokyonight)
+
+</div>
+
+> ⚠️ Stats update automatically. If images don't load, wait a few minutes for GitHub to cache them.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:6366F1,100:06B6D4&text=&fontSize=0" width="100%" alt="Divider" />
+
+</div>
+
+---
+
+<!-- ===================== 10 / ROADMAP ===================== -->
+
+## ⏁ 10 / ROADMAP
+
+### Next Targets
+
+---
+
+<!-- ===================== 11 / VISION ===================== -->
+
+## ⏫ 11 / WHAT I WANT TO BUILD
+
+I want to build AI systems that solve practical problems: tools that make information easier to find, data easier to understand, and decisions a little better informed. Every project I finish is a step in that direction.
+
+---
+
+<!-- ===================== 12 / CONNECT ===================== -->
+
+## ⍓ 12 / CONNECT
+
+<div align="center">
+
+Open to learning opportunities, collaborations and conversations about AI and data.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-tiruveedhi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanthiriveedi7@gmail.com)
+[![Naukri](https://img.shields.io/badge/Naukri-0072E3?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavanthiriveedi7-rgb)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06B6D4,100:6366F1" width="100%" alt="Footer wave" />
+
+</div>
